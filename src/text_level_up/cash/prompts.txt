@@ -1,0 +1,1 @@
+{"prompts":[{"id":"1","text":"Rephrase this text with C1-C2 vocabulary and idioms if it is possible, give only one alternative variant in your answer"},{"id":"2","text":"translate this text to the dogs language"}]}
